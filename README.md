@@ -1,5 +1,3 @@
-# random-name-generator
-
 # Random Name Generator
 
 โปรแกรม JavaScript ขนาดเล็ก สำหรับสุ่มชื่อจาก Array
